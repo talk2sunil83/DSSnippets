@@ -1,0 +1,43 @@
+{
+    "Pandas with Pyplot": {
+        "prefix": "pp",
+        "body": [
+            "# %%",
+            "import numpy as np",
+            "import pandas as pd",
+            "import matplotlib.pyplot as plt",
+            "%matplotlib inline",
+            "# %%",
+            "df = pd.read_csv(\"$1\")"
+        ],
+        "description": "Pandas with matplotlib",
+        "scope": "python"
+    },
+    "Pandas with Sns": {
+        "prefix": "ps",
+        "body": [
+            "# %%",
+            "import numpy as np",
+            "import pandas as pd",
+            "import matplotlib.pyplot as plt",
+            "import seaborn as sns",
+            "%matplotlib inline",
+            "# %%",
+            "df = pd.read_csv(\"$1\")"
+        ],
+        "description": "Pandas with seaborn",
+        "scope": "python"
+    },
+    "Create Pandas Dataframe": {
+        "prefix": "pd",
+        "body": [
+            "# %%",
+            "import numpy as np",
+            "import pandas as pd",
+            "# %%",
+            "df = pd.read_csv(\"$1\")"
+        ],
+        "description": "Create Pandas Dataframe",
+        "scope": "python"
+    }
+}

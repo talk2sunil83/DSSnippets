@@ -1,0 +1,29 @@
+{
+    "name": "dspysnippets",
+    "displayName": "Python Snippets For Data Science",
+    "description": "\"Data Science Snippets for Python\"",
+    "icon": "icon.png",
+    "author": {
+        "name": "Sunil Yadav",
+        "email": "yadav.sunil83@live.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/talk2sunil83/DSSnippets"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
