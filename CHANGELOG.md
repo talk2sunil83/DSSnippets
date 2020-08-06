@@ -1,9 +1,15 @@
-# Change Log
+# Python Snippets For Data Science
 
-All notable changes to the "dspysnippets" extension will be documented in this file.
+For List of all supported snippets please see [Read Me File](https://github.com/talk2sunil83/DSSnippets/blob/master/README.md).
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## These snippets are only for Python Language
 
-## [Unreleased]
+## [0.0.0.1]
 
 - Initial release
+
+### Added
+
+- pd
+- pp
+- ps
