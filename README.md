@@ -6,6 +6,8 @@
 
 ## Features
 
+## New Snippets are coming very soon
+
 *List of supported snippets:*
 
 -----------------------------------------------------------------------------------------------------------
