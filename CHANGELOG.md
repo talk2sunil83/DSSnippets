@@ -4,7 +4,11 @@ For List of all supported snippets please see [Read Me File](https://github.com/
 
 ## These snippets are only for Python Language
 
-## [0.0.0.1]
+## [0.0.2]
+
+- message added in readme file
+
+## [0.0.1]
 
 - Initial release
 
