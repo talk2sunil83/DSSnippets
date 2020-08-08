@@ -1,7 +1,7 @@
 {
     "name": "dspysnippets",
     "displayName": "Python Snippets For Data Science",
-    "description": "\"Data Science Snippets for Python\"",
+    "description": "Data Science Snippets for Python",
     "publisher": "SunilYadav",
     "icon": "icon.png",
     "author": {
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "https://github.com/talk2sunil83/DSSnippets"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.28.0"
     },
