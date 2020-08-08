@@ -4,7 +4,7 @@ For List of all supported snippets please see [Read Me File](https://github.com/
 
 ## These snippets are only for Python Language
 
-## [0.0.3]
+## [0.0.3-4]
 
 - Adding snippets for working with [Python File/Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py) as notebook for more details have a look to [Microsoft Docs](https://code.visualstudio.com/docs/python/jupyter-support-py)
   - c

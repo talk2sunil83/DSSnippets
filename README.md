@@ -44,7 +44,7 @@ NA
 
 ## Release Notes
 
-### 0.0.0.3
+### 0.0.0.3-4
 
 Adding snippets for [Python File/Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py) snippets
 
