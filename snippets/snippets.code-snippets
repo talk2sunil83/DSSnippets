@@ -46,16 +46,18 @@
             "# %%",
             "$1"
         ],
-        "description": "Create code cell",
+        "description": "Create code cell(# %%)",
         "scope": "python"
     },
     "Create Markdown Cell": {
         "prefix": "cc",
         "body": [
             "# %% [markdown]",
-            "$1"
+            "'''",
+            "$1",
+            "'''"
         ],
-        "description": "Create markdown cell",
+        "description": "Create markdown cell (# %% [markdown])",
         "scope": "python"
     }
 }

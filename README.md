@@ -26,8 +26,8 @@
 
 | Snippet Key | Description  |
 |---|---|
-| c | Create Cell |
-| cc | Create Markdown cell|
+| c | Create Cell (# %%)|
+| cc | Create Markdown cell(# %% [markdown])|
 -----------------------------------------------------------------------------------------------------------
 
 ## Requirements
