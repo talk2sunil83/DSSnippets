@@ -5,7 +5,10 @@
 **Thank you for using these snippets, hope they make your coding faster, I welcome your feedback!!!**
 
 
-<h1 style="color:red; font-weight:bold;">Hurreee!!! Machine Learning Snippets are started to include</h1>
+<h1 style="color:red; font-weight:bold;">Hurreee!!! Machine Learning Snippets are started to include</br>
+
+[Get all great Python and Azure extension here](https://marketplace.visualstudio.com/items?itemName=SunilYadav.dspysnippets)
+</h1>
 
 
 
@@ -42,7 +45,7 @@
 
 | Snippet Key | Description                   |
 |-------------|-------------------------------|
-| ml-r-slr    | Simle Linear Regression       |
+| ml-r-slr    | Simple Linear Regression      |
 | ml-r-mlr    | Multiple Linear Regression    |
 | ml-r-ply    | Polynomial Regression         |
 | ml-r-svr    | SVM Regressor with RBF kernel |
@@ -63,6 +66,7 @@
 |-------------|---------------------------------------|
 | c           | Create Cell (# %%)                    |
 | cc          | Create Markdown cell(# %% [markdown]) |
+
 -----------------------------------------------------------------------------------------------------------
 
 ## Requirements
