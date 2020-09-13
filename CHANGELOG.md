@@ -4,10 +4,14 @@ For List of all supported snippets please see [Read Me File](https://github.com/
 
 ## These snippets are only for Python Language
 
+## [0.0.6]
+
+- **Classification snippets added**
+- Ref snippet added
+
 ## [0.0.5]
 
 - Adding of machine learning snippet started
-
 
 ## [0.0.3-4]
 
